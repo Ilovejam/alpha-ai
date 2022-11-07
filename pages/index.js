@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          ALPHA AI will make you a millionaire!
+          ALPHA asdAI will make you a millionaire!
           
         </p>
 
